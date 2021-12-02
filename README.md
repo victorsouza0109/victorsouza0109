@@ -1,4 +1,4 @@
-## Olá eu sou a Victor Souza, Desenvolvedor Front-End
+## Olá eu sou o Victor Souza, Desenvolvedor Front-End
 <div align="center">
   <a href="https://github.com/victorsouza0109">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsouza0109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
