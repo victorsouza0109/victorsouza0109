@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://angular.io" target="_blank"> <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://reactjs.org/" target="_blank"> <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://angular.io" target="_blank"> <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="30" /> </a>
   <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30" /> </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
